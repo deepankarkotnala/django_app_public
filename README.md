@@ -1,5 +1,7 @@
 # Django Application
 
+Link to the application: [Django App](https://django-dk.herokuapp.com)
+
 Here is an overview of the Django Appication that I have created during quarantine. 
 
 ### Application features:
@@ -12,4 +14,33 @@ Here is an overview of the Django Appication that I have created during quaranti
 7. A world map that represents the spread of COVID-19. 
 
 
-[!alt-img]("https://raw.githubusercontent.com/deepankarkotnala/django_app_public/master/Images/django_about.png")
+### Registration Page
+![alt-img](https://raw.githubusercontent.com/deepankarkotnala/django_app_public/master/Images/django_register.png)
+
+### Login Page
+![alt-img](https://raw.githubusercontent.com/deepankarkotnala/django_app_public/master/Images/django_login.png)
+
+### User Profile 
+![alt-img](https://raw.githubusercontent.com/deepankarkotnala/django_app_public/master/Images/django_profile.png)
+
+
+### Home Page
+![alt-img](https://raw.githubusercontent.com/deepankarkotnala/django_app_public/master/Images/django_home.png)
+
+### New Post
+![alt-img](https://raw.githubusercontent.com/deepankarkotnala/django_app_public/master/Images/django_newpost.png)
+
+### Post Update/Delete
+![alt-img](https://raw.githubusercontent.com/deepankarkotnala/django_app_public/master/Images/django_post.png)
+
+### Novel Coronavirus (COVID-19) India Status
+![alt-img](https://raw.githubusercontent.com/deepankarkotnala/django_app_public/master/Images/django_india.png)
+
+### World Map for Novel Coronavirus (COVID-19) Spread
+![alt-img](https://raw.githubusercontent.com/deepankarkotnala/django_app_public/master/Images/django_world_map.png)
+
+### About Page
+![alt-img](https://raw.githubusercontent.com/deepankarkotnala/django_app_public/master/Images/django_about.png)
+
+### Logout Page
+![alt-img](https://raw.githubusercontent.com/deepankarkotnala/django_app_public/master/Images/django_logout.png)
